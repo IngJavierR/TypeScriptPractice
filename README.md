@@ -1,0 +1,2 @@
+# TypeScriptPractice
+Tutorial about typescript
