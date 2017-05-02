@@ -1,0 +1,21 @@
+{
+  "name": "typescriptpractice",
+  "description": "TypeScript Practice",
+  "main": "index.js",
+  "authors": [
+    "Javier Rodriguez"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/IngJavierR/TypeScriptPractice",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
